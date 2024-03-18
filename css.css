@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.nav ul li{
+    margin-right: 20px;
+
+}
+.nav ul li{
+    background-color: orange;
+    padding: 10px;
+}
+.nav a{
+    color: blanchedalmond;
+    text-decoration: none;
+}
